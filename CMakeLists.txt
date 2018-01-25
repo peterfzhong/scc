@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 SET(CMAKE_BUILE_TYPE DEBUG) 
-set(PROJECT_NAME libevent_test)
+set(PROJECT_NAME scc)
 project(${PROJECT_NAME})
 
 message(STATUS "Project name:${PROJECT_NAME}\r\n")
